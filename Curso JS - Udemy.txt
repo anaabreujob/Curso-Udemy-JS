@@ -1,0 +1,63 @@
+ O que aprendi com este curso:
+
+Tipos de dados e variáveis
+Estruturas de controle e repetição
+Funções
+Arrays e Objetos
+Tratamento de erros
+HTML e CSS - Introdutório
+DOM 
+Programação assíncrona
+Expressões regulares
+Programação Orientada a Objeto - POO
+Design Patterns
+
+Desenvolvido:
+Jogo da Forca
+Desenvolver uma página web curricular
+To Do List
+Info Films
+JS E-commerce
+
+Sobre o JavaScript:
+A linguagem de programação JavaScript é usada para tornar aplicações mais flexíveis e interativas, essencial nas aplicações Web e Mobile. JS é uma linguagem versátil pois pode ser usada tanto no visual (Front-END) quanto no banco de dados e servidor. (Back-END)
+Frameworks auxiliam no processo de criação de um projeto.
+A linguagem JS é baseada na ECMAScript, ou ES.
+
+ECMAScript é uma especificação de linguagem, ou seja, ela define os padrões para uma linguagem de programação, e o JavaScript é a implementação desses padrões.
+
+Criando o site com HTML E JS:
+
+console.log("Hello, World!");
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Seção 1</title>
+</head>
+<body>
+    <h1>Seção 1</h1>
+    <script src="./app.js"></script>
+</body>
+</html>
+
+Tipos de dados: Primitivo, primitivo especial e complexos
+
+ String: Texto puro. utilizam aspas duplas ou simples, sempre do mesmo tipo Ex: mensagem de wpp.
+
+Number: Representa números, ponto flutuante/decimal (1.000) ou inteiro (100). Ex: Valor monetário.
+
+Boolean: Usado para tomar decisões lógicas, true e false. Ex: seleção de algo é true, o resto é false
+
+Symbol: Avançado. Imutável e exclusivo.
+
+BigInt: Número muito grande, não dimensionado pelo number.
+
+Undefined: Valor não atribuido no computador.
+
+Let: Usado antes de uma Variável. Ex: Let meunome = Ana;
+Const: Constante. Atribui valor a constantes que não mudarão. Ex:24/7
+
+Valores:
+true possui o valor de 1; false possui o valor de 0.
+
